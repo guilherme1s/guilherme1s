@@ -1,8 +1,6 @@
-# Sobre
+# About
 
-**`Desenvolvedor FullStack`**
-
-Formado em Engenharia da Computação em outubro 2024, sou Desenvolvedor Full-Stack com experiência em tecnologias como: HTML, CSS, JavaScript, TypeScript, React e Next.js. Minha paixão é criar interfaces eficientes e funcionais, focando em uma experiência de usuário excepcional.
+Softaware Engeenering / FullStack developer.
 
 <div>
   <a href = "mailto:2000guilherme.silva@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
