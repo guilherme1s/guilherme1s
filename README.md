@@ -9,7 +9,7 @@ Softaware Engeenering / FullStack developer.
 
 ---
 
-### Linguagens e Tecnologias
+### Languages ​​and Technologies
 
 <img 
     align="left" 
